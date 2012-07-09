@@ -1,8 +1,3 @@
-<div class="row form-actions">
-	<div class="show pull-right">
-		<a class="btn" href="<?php echo path("blog/add/"); ?>">Agregar entrada</a>
-	</div>
-</div>
 <div class="blog">
 	<?php
 		if (is_array($posts)) {

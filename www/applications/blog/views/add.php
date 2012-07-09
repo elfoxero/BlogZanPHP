@@ -1,8 +1,3 @@
-<div class="row form-actions">
-	<div class="show pull-right">
-		<a class="btn" href="<?php echo path("blog/"); ?>">Volver al inicio</a>
-	</div>
-</div>
 <form action="" method="post">
 	<fieldset>
 		<p>

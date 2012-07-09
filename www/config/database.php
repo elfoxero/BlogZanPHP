@@ -12,11 +12,11 @@ if(!defined("_access")) {
  */
 $ZP["db"]["dbPDO"] 	  = FALSE;
 $ZP["db"]["dbDriver"] = "mysqli";
-$ZP["db"]["dbHost"]   = $_SERVER['DB1_HOST'];
-$ZP["db"]["dbUser"]   = $_SERVER['DB1_USER'];
-$ZP["db"]["dbPwd"] 	  = $_SERVER['DB1_PASS'];
-$ZP["db"]["dbName"]   = $_SERVER['DB1_NAME'];
-$ZP["db"]["dbPort"]   = $_SERVER['DB1_PORT'];
+$ZP["db"]["dbHost"]   = "localhost";
+$ZP["db"]["dbUser"]   = "";
+$ZP["db"]["dbPwd"] 	  = "";
+$ZP["db"]["dbName"]   = "blogzanphp";
+$ZP["db"]["dbPort"]   = 3306;
 $ZP["db"]["dbPfx"] 	  = "zan_";
 $ZP["db"]["dbSocket"] = NULL;
 

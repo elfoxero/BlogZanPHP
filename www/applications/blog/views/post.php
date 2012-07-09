@@ -1,8 +1,3 @@
-<div class="row form-actions">
-	<div class="show pull-right">
-		<a class="btn" href="<?php echo path("blog/"); ?>">Volver al inicio inicio</a>
-	</div>
-</div>
 <div class="blog">
 	<p class="title">
 		<h2><?php echo $post["Title"]; ?></h2><br />

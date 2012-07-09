@@ -9,7 +9,7 @@ if(!defined("_access")) {
 /**
  * Website
  */
-$ZP["webURL"] 	    = "http://blogzanphp.pagodabox.com";
+$ZP["webURL"] 	    = "http://localhost/BlogZanPHP";
 $ZP["webName"] 	    = "BlogZanPHP";
 $ZP["webTheme"]     = "default";
 $ZP["webSituation"] = "Active";
@@ -20,7 +20,7 @@ $ZP["benchMark"]    = FALSE;
  * Server
  */
 $ZP["production"] = FALSE;
-$ZP["domain"] 	  = TRUE;
+$ZP["domain"] 	  = FALSE;
 $ZP["modRewrite"] = FALSE;
 $ZP["autoRender"] = TRUE;
 
