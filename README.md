@@ -2,7 +2,7 @@ Información
 ------------------------
 Este proyecto contiene los archivos explicados en el taller de "Cómo crear un blog con ZanPHP" de Codejobs.
 
-    Screencast del taller: [http://www.youtube.com/watch?v=TtcmNhHrTqA](http://www.youtube.com/watch?v=TtcmNhHrTqA)
+Screencast del taller: http://www.youtube.com/watch?v=TtcmNhHrTqA
 
 La aplicación se puede ver en ejecución en la nube por el siguiente enlace: http://blogzanphp.pagodabox.com/
 
