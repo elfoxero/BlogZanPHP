@@ -14,7 +14,7 @@
 		</p>
 
 		<p>
-			Content: <br />
+			Contenido: <br />
 			<textarea name="content" rows="10" cols="20"><?php echo recoverPOST("content"); ?></textarea>
 		</p>
 
