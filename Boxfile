@@ -1,2 +1,2 @@
 web1:
-  php_extensions: [pdo, pdo_mysql, mysqli]
+  php_extensions: [pdo, pdo_mysql, mysqli, gettext]
