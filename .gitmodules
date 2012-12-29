@@ -1,0 +1,3 @@
+[submodule "zan"]
+	path = zan
+	url = git@github.com:MilkZoft/zan.git
